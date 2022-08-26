@@ -1,11 +1,11 @@
 # C-3PO
 Composition Code Collaboration and Planning for Operations
 
-This is repo is for prior discussion and planning between in-kinds and core jcsda.
+A place for discussions and planning between in-kinds and core jcsda, that need to happen before code specific issues or PR review creation in the jedi repos.
 
-This can include discussion about long-term and medium term issues.
+1. This can include discussion about long-term and medium term issues.
 
-Planned developments to come: 
+2. Discussions about planned developments to come: 
  - in the sort term (every two weeks)
  - in the medium term (every quarter)
  
