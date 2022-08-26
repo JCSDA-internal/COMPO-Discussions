@@ -1,7 +1,7 @@
 # C-3PO
 Composition Code Collaboration and Planning for Operations
 
-A place for discussions and planning between in-kinds and core jcsda, that need to happen before code specific issues or PR review creation in the jedi repos.
+A place for atmospheric composition discussions and planning between in-kinds and core jcsda, that need to happen before code specific issues or PR review creation in the jedi repos.
 
 This repo is meant for discussion only (we don't want to create git issues here) so this is the place to start our conversations that will lead to a set of code specific issues in each actual JEDI repos, that can be grouped into EPICSs (in the AOP repo) and closed with pull request acceptance and merge.
 
