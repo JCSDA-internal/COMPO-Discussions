@@ -7,7 +7,7 @@ This repo is meant for discussion only (we don't want to create git issues here)
 
 I hope that from those discussion we can define clear sets of issues and have better planning across in-kinds and core-JCSDA.
 
-1. This can include discussion about long-term and medium term issues.
+1. This can include discussion about long-term issues i.e. what we would like to see happening and changing over the next years.
 
 2. Discussions about planned developments to come: 
  - in the sort term (every two weeks)
