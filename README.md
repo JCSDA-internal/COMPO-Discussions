@@ -1,5 +1,4 @@
-# C-3PO
-Composition Code Collaboration and Planning for Operations
+# COMPO Discussions
 
 A place for atmospheric composition discussions and planning between in-kinds and core jcsda, that need to happen before code specific issues or PR review creation in the jedi repos.
 
